@@ -1,6 +1,6 @@
 # Schemapper
 
-Schemapper is a database-agnostic tool to visualize [Rails](http://rubyonrails.org/) 3.0+ schemas using [D3](http://d3js.org/).
+Schemapper is a database-agnostic tool to visualize [Rails](http://rubyonrails.org/) 3.0.1 and ruby 1.9.2p290+ schemas using [D3](http://d3js.org/).
 Schemapper does this by walking your models directly to obtain their associations, table names, and attributes.
 
 ## Screen Shot
